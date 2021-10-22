@@ -11,7 +11,7 @@ Requires to be executed from a domain controller, or a member server with Active
 
 .AUTHOR
 ------------------------
-mircea.g
+droopy-d
 
 .TESTED
 ------------------------
