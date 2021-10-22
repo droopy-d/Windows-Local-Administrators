@@ -6,8 +6,8 @@ Windows-Server-Local-Administrators.ps1
 
 .DESCRIPTION
 ------------------------
-Generates a CSV report with users members of the local Administrators group from all domain member Windows servers
-Requires to be executed from a domain controller, or a member server with Active Directory module enabled
+Generates a CSV report with users members of the local Administrators group from all domain member Windows servers.
+Requires to be executed from a domain controller, or a member server with Active Directory module enabled.
 
 .AUTHOR
 ------------------------
